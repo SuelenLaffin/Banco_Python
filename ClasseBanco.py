@@ -11,4 +11,8 @@
 # Apenas encerrar o projeto com a opção SAIR selecionada.
 # reescrever códigos.
 # Validar o numero da conta com 5 digitos existente na lista.
-# Tempo estimado: 40 min. 
+# Tempo estimado: 40 min.
+
+class Banco():
+    def __init__(self):
+        pass
